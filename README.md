@@ -45,6 +45,11 @@
     </ul>
 </section>
 
+<section id="next-job">
+    <h2>What I Am Looking For</h2>
+    <p>I am seeking an opportunity to build a long-term career while contributing to the growth of a world-class company and developing products that make a significant impact. Leveraging my international experience, I aim to bridge the tech divide between India and the USA, focusing on building a multinational service and product-based company. I value a workplace that fosters learning, collaboration, and innovation—a place where peers share the vision of creating something remarkable together while making work both fun and fulfilling.</p>
+</section>
+
 <section id="contact">
     <h2>Contact</h2>
     <p>Email: rantron2@gmail.com</p>
