@@ -15,13 +15,14 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>I am a fresh CEO and an experienced Program and Project Manager with expertise in AI innovation, startup incubation, and international business strategy. My mission is to drive operational transformation and create scalable solutions through Centers of Excellence and industry partnerships.</p>
+    <p>I am the CEO of downtown Venture Labs, an experienced Program and Project Manager with expertise in AI innovation, startup incubation, and international business strategy. My mission is to drive operational transformation and create scalable solutions through Centers of Excellence and industry partnerships.</p>
 </section>
 
 <section id="experience">
     <h2>Experience</h2>
     <ul>
-        <li><strong>Program Manager</strong> - IITG Technology Incubation Centre (2024 - Present)</li>
+        <li><strong>Program Manager</strong> - iTBI downtown Venture Labs (2025 - Present)</li>
+        <li><strong>Program Manager</strong> - IITG Technology Incubation Centre (2024 - 2025)</li>
         <li><strong>Project Manager</strong> - STPINEXT (2023 - Present)</li>
         <li><strong>Senior Consultant</strong> - Government of Assam (2020 - 2021)</li>
     </ul>
