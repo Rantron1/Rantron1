@@ -15,7 +15,7 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>I am an experienced Program and Project Manager with expertise in AI innovation, startup incubation, and international business strategy. My mission is to drive operational transformation and create scalable solutions through Centers of Excellence and industry partnerships.</p>
+    <p>I am a fresh CEO and an experienced Program and Project Manager with expertise in AI innovation, startup incubation, and international business strategy. My mission is to drive operational transformation and create scalable solutions through Centers of Excellence and industry partnerships.</p>
 </section>
 
 <section id="experience">
